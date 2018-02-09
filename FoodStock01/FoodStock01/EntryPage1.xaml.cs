@@ -48,13 +48,6 @@ namespace FoodStock01
             }
         }
 
-        /***いらないか***/
-        public EntryPage1()
-        {
-
-        }
-        /*******↑********/
-
         void SelectSwitch(object sender, ToggledEventArgs args)
         {
             //保存食品
